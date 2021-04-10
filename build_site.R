@@ -91,7 +91,7 @@ html = qq('
 <script src="www/shared/bootstrap/js/bootstrap.min.js"></script>
 <script src="www/shared/bootstrap/accessibility/js/bootstrap-accessibility.min.js"></script>
 <link href="www/shared/AdminLTE/AdminLTE.min.css" rel="stylesheet" />
-<link href="www/shared/AdminLTE/_all-skins.min.css" rel="stylesheet" />
+<link href="www/shared/AdminLTE/all-skins.min.css" rel="stylesheet" />
 <script src="www/shared/AdminLTE/app.min.js"></script>
 <link href="www/shared/shinydashboard.css" rel="stylesheet" />
 <script src="www/main.js"></script>
