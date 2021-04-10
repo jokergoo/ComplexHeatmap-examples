@@ -88,7 +88,7 @@ generate_html_by_topic = function(lt, prefix = getwd()) {
 
 	index = file(qq("@{prefix}/@{dir_name}/index.html"), "w")
 
-	url_base = gsub("^.*?/docs", "", prefix)
+	url_base = gsub("^.*?/docs/", "", prefix)
 
 	for(i in seq_along(lt$example)) {
 		title = lt$example[[i]]$title
