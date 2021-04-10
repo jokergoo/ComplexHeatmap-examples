@@ -1,5 +1,9 @@
 
+library(GetoptLong)
 library(digest)
+library(shiny)
+library(shinydashboard)
+library(callr)
 
 wd = getwd()
 
